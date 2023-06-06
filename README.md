@@ -1,7 +1,8 @@
 # FruitFreshness
 Проект по детекции свежих фруктов на фото
 
-#Принцип работы
+# Принцип работы
+
 Использованная база данных: https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification
 
 С помощью ssd_mobilenet_v2 (https://tfhub.dev/tensorflow/ssd_mobilenet_v2/2) из исходного изображения вырезаються фрукты и подаються на вход обученной сети.
