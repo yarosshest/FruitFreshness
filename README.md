@@ -1,5 +1,6 @@
 # FruitFreshness
 Проект по детекции свежих фруктов на фото
+
 #Принцип работы
 Использованная база данных: https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification
 
